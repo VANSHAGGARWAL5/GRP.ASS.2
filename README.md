@@ -53,6 +53,11 @@ You can view the live demo of this project here:
 - **`styles.css`**: The CSS file for styling the page.
 - **`script.js`**: The JavaScript file for handling calculations and interactivity.
 - **`README.md`**: This file, providing an overview of the project.
+- **`SCREENSHOTS.PDF`**: This file, will include the following sections:
+
+Code Screenshots: Screenshots of your HTML, CSS, and JavaScript code.
+
+Browser Output Screenshots: Screenshots of the live demo in the browser.
 
 ---
 
